@@ -67,3 +67,33 @@ Found at https://designsmaz.com/best-car-dashboard-designs/
 |Gauge Sizing||
 
 **Explanation:** The design for the Pagani Huayra dashboard is good. The main feature that make this design nice is the digital display in the center of the screen that can help house information with ease. Other than that, the gauges are easy to read and have a nice size to them. The only issue is with the spread of the warning statuses that are spread out all over the display. 
+
+---
+
+## My Most Common and Rare Uses for Car Dashboard
+
+|Common|Rare|
+|-|-|
+|Checking Speed|See Outside Temperature|
+|Checking RPMs|Checking Odometer|
+|See Car Status||
+|Turn Signals||
+
+## Controls User Interacts with on Dashboard
+* Turning On/Off Cruise Control
+* Resetting Odometer
+* Toggle Low Beams/High Beams
+
+## Common Mistakes
+* Mistaking RPM for Speed
+* Mistaking Trips for Total Odometer Reading
+* Mistaking Warnings for Serious Problems
+  
+## Suggestions for New Design
+A new interface for a car dashboard should be very simplistic, while still being able to convey the vital information need. For today's society where many cars have an automatic transmission, the use of a tachometer is to ensure the ECU is not overworking any gear when making its calculation on whether or not to switch gears. For those who have Tiptronic/manual transmissions, the tachometer becomes vital. Therefore, the tachometer needs to have a sense of presence, but not to overbearing that it takes over the dash like many cars.
+
+For warnings/problem indicators on the dash, the user should be able to tell the difference between a warning and a major problem. Therefore, both types of indicators should be in their own respective locations so a user does not get confused when seeing any type of indicator.
+
+## Sketch of My Proposed Dashboard
+
+<img src="./assets/proposed-design.jpg" width="75%">
