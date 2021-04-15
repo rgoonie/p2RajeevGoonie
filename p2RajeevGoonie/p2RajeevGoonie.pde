@@ -274,8 +274,8 @@ private void drawOdometer(){
 
 private void drawFuelGauge(){
   //fuel bar
-  stroke(255,204,0);
-  fill(255,204,0);
+  stroke(255,160,0);
+  fill(255,160,0);
   rect(100.0, 187.5, (int)(200*fuelPercentage), 25.0);
   
   //black lines
@@ -311,8 +311,8 @@ private void drawFuelGauge(){
 
 private void drawCoolantTemperatureGauge(){
   //fuel bar
-  stroke(255,204,0);
-  fill(255,204,0);
+  stroke(255,160,0);
+  fill(255,160,0);
   rect(700, 187.5, (int)(200*coolantPercentage), 25.0);
   
   //black lines
@@ -348,8 +348,8 @@ private void drawCoolantTemperatureGauge(){
 
 private void drawOilPressureGauge(){
   //fuel bar
-  stroke(255,204,0);
-  fill(255,204,0);
+  stroke(255,160,0);
+  fill(255,160,0);
   rect(700, 287.5, (int)(200*oilPressurePercentage), 25.0);
   
   //black lines
