@@ -27,4 +27,4 @@ My objective is to build a simplist car dashboard that can be used for both caus
 *To be added later*
 
 ### YouTube Demo Presentation
-*To be added later*
+[![YouTube Demo Presentation](https://img.youtube.com/vi/y2y2T-2qQVg/0.jpg)](https://www.youtube.com/watch?v=y2y2T-2qQVg)
